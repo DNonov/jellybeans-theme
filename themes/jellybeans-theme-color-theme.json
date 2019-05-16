@@ -12,6 +12,7 @@
     "statusBar.debuggingBackground": "#333333",
     "statusBar.foreground": "#e8e8d3",
     "statusBar.noFolderBackground": "#333333",
+    "editorLineNumber.activeForeground": "#ffb459"
   },
   "tokenColors": [
 		{
