@@ -15,7 +15,8 @@
     "Theme",
     "Dark",
     "Visual Studio Code",
-    "Jellybeans"
+    "Jellybeans",
+    "vim"
   ],
   "engines": {
     "vscode": "^1.33.0"
