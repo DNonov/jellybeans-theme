@@ -15,7 +15,8 @@
     "editorLineNumber.activeForeground": "#ffb459",
     // Terminal
     "terminal.ansiBlack": "#000",
-    "terminal.foreground": "#e8e8d3",
+    "terminal.ansiWhite": "#e8e8d3",
+    "terminal.foreground": "#e4e4db",
     "terminal.background": "#151515",
     "terminal.ansiRed": "#cf6a4c",
     "terminal.ansiYellow": "#fad07a",
@@ -201,7 +202,7 @@
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#e8e8d3"
       }
     },
     {
@@ -232,7 +233,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#e8e8d3"
       }
     },
     {
