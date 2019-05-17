@@ -1,33 +1,33 @@
 {
-  "name": "jellybeans-theme",
-  "displayName": "Jellybeans Theme",
-  "description": "Port of jellybeans.vim.",
-  "version": "1.0.0",
-  "publisher": "DimitarNonov",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/DNonov/jellybeans-code"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "Theme",
-    "Dark",
-    "Visual Studio Code",
-    "Jellybeans",
-    "vim"
-  ],
-  "engines": {
-    "vscode": "^1.33.0"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Jellybeans Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/jellybeans-theme-color-theme.json"
-      }
-    ]
-  }
+	"name": "jellybeans-theme",
+	"displayName": "Jellybeans Theme",
+	"description": "Port of jellybeans.vim.",
+	"version": "1.0.0",
+	"publisher": "DimitarNonov",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/DNonov/jellybeans-code"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Theme",
+		"Dark",
+		"Visual Studio Code",
+		"Jellybeans",
+		"vim"
+	],
+	"engines": {
+		"vscode": "^1.33.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Jellybeans Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/jellybeans-theme-color-theme.json"
+			}
+		]
+	}
 }
