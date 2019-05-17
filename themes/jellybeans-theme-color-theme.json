@@ -19,6 +19,7 @@
     "terminal.foreground": "#e4e4db",
     "terminal.background": "#151515",
     "terminal.ansiRed": "#cf6a4c",
+    "terminal.ansiBrightRed": "#cf6a4c",
     "terminal.ansiYellow": "#fad07a",
     "terminal.ansiBrightYellow": "#fad07a",
     "terminal.ansiGreen": "#99ad6a",
