@@ -20,7 +20,8 @@
 	],
 	"engines": {
 		"vscode": "^1.33.0"
-	},
+  },
+  "icon": "/media/icon.png",
 	"contributes": {
 		"themes": [
 			{
