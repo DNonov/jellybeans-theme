@@ -120,6 +120,15 @@
       }
     },
     {
+      "name": "Object's key",
+      "scope": [
+        "meta.object-literal.key"
+      ],
+      "settings": {
+        "foreground": "#fad07a"
+      }
+    },
+    {
       "name": "Function parameters python",
       "scope": [
         "variable.parameter.function.language.python",
