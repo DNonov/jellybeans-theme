@@ -60,7 +60,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#e8e8d3"
+        "foreground": "#ffb459"
       }
     },
     {
