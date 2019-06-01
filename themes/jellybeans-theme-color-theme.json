@@ -335,6 +335,13 @@
       "settings": {
         "foreground": "#8197BF"
       }
+    },
+    {
+      "name": "JSDoc: definition block tag",
+      "scope": "punctuation.definition.block.tag.jsdoc",
+      "settings": {
+        "foreground": "#8197BF"
+      }
     }
 	]
 }
