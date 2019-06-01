@@ -143,6 +143,13 @@
       }
     },
     {
+      "name": "Function decorator tag python",
+      "scope": "punctuation.definition.decorator.python",
+      "settings": {
+        "foreground": "#8197BF"
+      }
+    },
+    {
       "name": "Classes",
       "scope": [
         "meta.return-type",
