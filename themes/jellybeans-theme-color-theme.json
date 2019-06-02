@@ -14,8 +14,9 @@
     "statusBar.noFolderBackground": "#333333",
     "editorLineNumber.activeForeground": "#ffb459",
     // Terminal
-    "terminal.ansiBlack": "#000",
     "terminal.ansiWhite": "#e8e8d3",
+    // Prevents black foreground to black background
+    "terminal.ansiBlack": "#e8e8d3",
     "terminal.foreground": "#e4e4db",
     "terminal.background": "#151515",
     "terminal.ansiRed": "#cf6a4c",
