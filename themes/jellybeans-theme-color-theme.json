@@ -350,9 +350,22 @@
     },
     {
       "name": "JSDoc: definition block tag",
-      "scope": "punctuation.definition.block.tag.jsdoc",
+      "scope": [
+        "punctuation.definition.block.tag.jsdoc",
+        "punctuation.definition.inline.tag.jsdoc"
+      ],
       "settings": {
         "foreground": "#8197BF"
+      }
+    },
+    {
+      "name": "JSDoc: punctuation curly brackets",
+      "scope": [
+        "punctuation.definition.bracket.curly.begin.jsdoc",
+        "punctuation.definition.bracket.curly.end.jsdoc"
+      ],
+      "settings": {
+        "foreground": "#fdab47"
       }
     }
 	]
