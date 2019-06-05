@@ -202,7 +202,11 @@
       "scope": [
         "string",
         "punctuation.definition.string.begin",
-        "punctuation.definition.string.end"
+        "punctuation.definition.string.end",
+        "punctuation.definition.string.template.begin",
+        "punctuation.definition.string.template.end",
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end"
       ],
       "settings": {
         "foreground": "#99ad6a"
