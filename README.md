@@ -16,10 +16,8 @@ This is vs code theme based on [jellybeans.vim](https://github.com/nanotech/jell
 ![](https://raw.githubusercontent.com/DNonov/jellybeans-theme/master/media/jellybeans-css.png)
 ### HTML
 ![](https://raw.githubusercontent.com/DNonov/jellybeans-theme/master/media/jellybeans-html.png)
-### CSharp
-![](https://raw.githubusercontent.com/DNonov/jellybeans-theme/master/media/jellybeans-csharp.png)
 ### Python
 ![](https://raw.githubusercontent.com/DNonov/jellybeans-theme/master/media/jellybeans-py.png)
 
 ## Credits
-Icon theme used  -  [Webstorm Icon Theme](https://marketplace.visualstudio.com/items?itemName=pmsandhu.webstorm-icons).
+Icon theme used  -  [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
