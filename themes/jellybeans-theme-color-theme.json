@@ -297,6 +297,7 @@
         "meta.selector",
         "meta.selector entity",
         "meta.selector entity punctuation",
+        "punctuation.definition.entity.css",
         "entity.name.tag.css"
       ],
       "settings": {
