@@ -319,7 +319,8 @@
       "scope": [
         "meta.property-value",
         "meta.property-value constant.other",
-        "support.constant.property-value"
+        "support.constant.property-value",
+        "punctuation.definition.constant.css",
       ],
       "settings": {
         "foreground": "#cf6a4c"
