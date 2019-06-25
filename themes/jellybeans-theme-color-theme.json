@@ -15,8 +15,10 @@
     "editorLineNumber.activeForeground": "#ffb459",
     // Terminal
     "terminal.ansiWhite": "#e8e8d3",
+    "terminal.ansiBrightWhite": "#e8e8d3",
     // Prevents black foreground to black background
     "terminal.ansiBlack": "#e8e8d3",
+    "terminal.ansiBrightBlack": "#e8e8d3",
     "terminal.foreground": "#e4e4db",
     "terminal.background": "#151515",
     "terminal.ansiRed": "#cf6a4c",
@@ -26,7 +28,10 @@
     "terminal.ansiGreen": "#99ad6a",
     "terminal.ansiBrightGreen": "#99ad6a",
     "terminal.ansiBlue": "#8197BF",
+    "terminal.ansiBrightBlue": "#8197BF",
     "terminal.ansiCyan": "#6796e6",
+    "terminal.ansiBrightCyan": "#6796e6",
+    "terminal.ansiBrightMagenta": "#b267e6",
     "terminal.ansiMagenta": "#b267e6"
   },
   "tokenColors": [
@@ -289,6 +294,13 @@
       ],
       "settings": {
         "foreground": "#cf6a4c"
+      }
+    },
+    {
+      "name": "JSX: Foreground",
+      "scope": "meta.jsx.children.js.jsx",
+      "settings": {
+        "foreground": "#ddddc1"
       }
     },
     {
