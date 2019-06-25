@@ -257,8 +257,8 @@
       "scope": [
         "meta.tag",
         "punctuation.definition.tag.html",
-        "punctuation.definition.tag.begin.html",
-        "punctuation.definition.tag.end.html"
+        "punctuation.definition.tag.begin",
+        "punctuation.definition.tag.end",
       ],
       "settings": {
         "foreground": "#888888"
