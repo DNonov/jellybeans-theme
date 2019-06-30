@@ -32,18 +32,24 @@
     "terminal.ansiCyan": "#6796e6",
     "terminal.ansiBrightCyan": "#6796e6",
     "terminal.ansiBrightMagenta": "#b267e6",
-    "terminal.ansiMagenta": "#b267e6"
+    "terminal.ansiMagenta": "#b267e6",
+    // Suggestion Widget
+    "editorSuggestWidget.background": "#252525",
+    "editorSuggestWidget.border": "#454545",
+    "editorSuggestWidget.foreground": "#e8e8d3",
+    "editorSuggestWidget.highlightForeground": "#8197BF",
+    "editorSuggestWidget.selectedBackground": "#3f3f3f",
   },
   "tokenColors": [
-		{
-			"name": "Comment",
-			"scope": [
+    {
+      "name": "Comment",
+      "scope": [
         "comment",
         "punctuation.definition.comment"
       ],
-			"settings": {
-				"foreground": "#888888"
-			}
+      "settings": {
+        "foreground": "#888888"
+      }
     },
     {
       "name": "Comments: Preprocessor",
@@ -217,19 +223,19 @@
         "foreground": "#99ad6a"
       }
     },
-		{
-			"name": "Symbol",
-			"scope": "constant.other",
-			"settings": {
-				"foreground": "#8197BF"
-			}
-		},
-		{
-			"name": "Regexp",
-			"scope": "string.regexp",
-			"settings": {
-				"foreground": "#cf6a4c"
-			}
+    {
+      "name": "Symbol",
+      "scope": "constant.other",
+      "settings": {
+        "foreground": "#8197BF"
+      }
+    },
+    {
+      "name": "Regexp",
+      "scope": "string.regexp",
+      "settings": {
+        "foreground": "#cf6a4c"
+      }
     },
     {
       "name": "Punctuation",
@@ -239,11 +245,11 @@
       }
     },
     {
-			"name": "JSON key",
+      "name": "JSON key",
       "scope": "support.type.property-name.json.comments",
-			"settings": {
-				"foreground": "#fbe3bf"
-			}
+      "settings": {
+        "foreground": "#fbe3bf"
+      }
     },
     {
       "name": "HTML: Doctype Declaration",
@@ -386,5 +392,5 @@
         "foreground": "#fdab47"
       }
     }
-	]
+  ]
 }
