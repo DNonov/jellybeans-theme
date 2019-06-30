@@ -39,6 +39,17 @@
     "editorSuggestWidget.foreground": "#e8e8d3",
     "editorSuggestWidget.highlightForeground": "#8197BF",
     "editorSuggestWidget.selectedBackground": "#3f3f3f",
+    // List
+    "list.activeSelectionBackground": "#3f3f3f",
+    "list.activeSelectionForeground": "#ffffff",
+    "list.dropBackground": "#062f4a",
+    "list.errorForeground": "#f88070",
+    "list.focusBackground": "#3f3f3f",
+    "list.highlightForeground": "#0097fb",
+    "list.hoverBackground": "#2a2d2e",
+    "list.inactiveSelectionBackground": "#37373d",
+    "list.invalidItemForeground": "#b89500",
+    "list.warningForeground": "#4d9e4d",
   },
   "tokenColors": [
     {
