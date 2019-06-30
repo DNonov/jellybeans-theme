@@ -45,11 +45,22 @@
     "list.dropBackground": "#062f4a",
     "list.errorForeground": "#f88070",
     "list.focusBackground": "#3f3f3f",
-    "list.highlightForeground": "#0097fb",
+    "list.highlightForeground": "#8197BF",
     "list.hoverBackground": "#2a2d2e",
     "list.inactiveSelectionBackground": "#37373d",
     "list.invalidItemForeground": "#b89500",
     "list.warningForeground": "#4d9e4d",
+    // Input
+		"input.background": "#3c3c3c",
+		"input.foreground": "#cccccc",
+		"input.placeholderForeground": "#cccccc80",
+		"inputOption.activeBorder": "#8197BF",
+		"inputValidation.errorBackground": "#5a1d1d",
+		"inputValidation.errorBorder": "#be1100",
+		"inputValidation.infoBackground": "#3f3f3f",
+		"inputValidation.infoBorder": "#007acc",
+		"inputValidation.warningBackground": "#352a05",
+		"inputValidation.warningBorder": "#b89500",
   },
   "tokenColors": [
     {
