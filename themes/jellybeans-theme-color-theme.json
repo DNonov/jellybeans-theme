@@ -239,7 +239,8 @@
         "punctuation.definition.string.template.begin",
         "punctuation.definition.string.template.end",
         "punctuation.definition.template-expression.begin",
-        "punctuation.definition.template-expression.end"
+        "punctuation.definition.template-expression.end",
+        "constant.character.format.placeholder.other.python"
       ],
       "settings": {
         "foreground": "#99ad6a"
