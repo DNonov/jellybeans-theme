@@ -173,7 +173,7 @@
         "variable.parameter.function-call.python",
       ],
       "settings": {
-        "foreground": "#ffb459"
+        "foreground": "#ddddc1"
       }
     },
     {
