@@ -190,6 +190,13 @@
       }
     },
     {
+      "name": "Directive punctuation c",
+      "scope": "punctuation.definition.directive.c",
+      "settings": {
+        "foreground": "#8197BF"
+      }
+    },
+    {
       "name": "Classes",
       "scope": [
         "meta.return-type",
