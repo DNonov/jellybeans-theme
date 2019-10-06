@@ -98,7 +98,10 @@
     },
     {
       "name": "Operators",
-      "scope": "keyword.operator",
+      "scope": [
+        "keyword.operator",
+        "punctuation.separator.pointer-access.c"
+      ],
       "settings": {
         "foreground": "#ffe2a9"
       }
