@@ -67,6 +67,32 @@
     "peekViewEditorGutter.background": "#1d1d1d",
     "peekViewResult.selectionBackground": "#3399ff33",
     "peekViewResult.selectionForeground": "#ffffff",
+    // VS Code interface icons' colors
+    "symbolIcon.methodForeground": "#fad07a",
+    "symbolIcon.functionForeground": "#fad07a",
+    "symbolIcon.constructorForeground": "#fad07a",
+    "symbolIcon.variableForeground": "#8197BF",
+    "symbolIcon.fieldForeground": "#8197BF",
+    "symbolIcon.referenceForeground": "#8197BF",
+    "symbolIcon.enumeratorForeground": "#8197BF",
+    "symbolIcon.enumeratorMemberForeground": "#8197BF",
+    "symbolIcon.classForeground":  "#fdab47",
+    "symbolIcon.interfaceForeground": "#fdab47",
+    "symbolIcon.moduleForeground": "#fdab47",
+    "symbolIcon.namespaceForeground": "#fdab47",
+    "symbolIcon.keywordForeground": "#e8e8d3",
+    "symbolIcon.unitForeground": "#e8e8d3",
+    "symbolIcon.snippetForeground": "#e8e8d3",
+    // Notifications and problems panel icons
+    "problemsErrorIcon.foreground": "#cf6a4c",
+    "problemsWarningIcon.foreground": "#fad07a",
+    "problemsInfoIcon.foreground": "#8197BF",
+    "notificationsErrorIcon.foreground": "#cf6a4c",
+    "notificationsInfoIcon.foreground": "#fad07a",
+    "notificationsWarningIcon.foreground": "#8197BF",
+    // Light bulb
+    "editorLightBulb.foreground": "#fad07a",
+    "editorLightBulbAutoFix.foreground": "#fad07a"
   },
   "tokenColors": [
     {
