@@ -12,7 +12,7 @@
     "statusBar.debuggingBackground": "#333333",
     "statusBar.foreground": "#e8e8d3",
     "statusBar.noFolderBackground": "#333333",
-    "editorLineNumber.activeForeground": "#ffb459",
+    "editorLineNumber.activeForeground": "#fabb6e",
     // Terminal
     "terminal.ansiWhite": "#e8e8d3",
     "terminal.ansiBrightWhite": "#e8e8d3",
@@ -263,7 +263,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#fdab47"
+        "foreground": "#fabb6e"
       }
     },
     {
@@ -329,7 +329,7 @@
         "meta.tag.sgml punctuation.definition.tag.html"
       ],
       "settings": {
-        "foreground": "#ffb459"
+        "foreground": "#fabb6e"
       }
     },
     {
@@ -348,7 +348,7 @@
       "name": "HTML: Tag Names",
       "scope": ["entity.name.tag", "support.class.component.js"],
       "settings": {
-        "foreground": "#ffb459"
+        "foreground": "#fabb6e"
       }
     },
     {
@@ -388,7 +388,7 @@
         "entity.name.tag.css"
       ],
       "settings": {
-        "foreground": "#ffb459"
+        "foreground": "#fabb6e"
       }
     },
     {
@@ -458,7 +458,16 @@
         "punctuation.definition.bracket.curly.end.jsdoc"
       ],
       "settings": {
-        "foreground": "#fdab47"
+        "foreground": "#fabb6e"
+      }
+    },
+    {
+      "name": "Clojure: Keyword",
+      "scope": [
+        "constant.keyword.clojure",
+      ],
+      "settings": {
+        "foreground": "#ffe2a9"
       }
     }
   ]
