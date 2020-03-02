@@ -30,8 +30,8 @@ This is vs code theme based on [jellybeans.vim](https://github.com/nanotech/jell
 | Number          | ![#cf6a4c](https://placehold.it/15/cf6a4c/000000?text=+) `#cf6a4c` |
 | String          | ![#99ad6a](https://placehold.it/15/99ad6a/000000?text=+) `#99ad6a` |
 | Keyword         | ![#8197bf](https://placehold.it/15/8197bf/000000?text=+) `#8197bf` |
-| Class/Tag       | ![#fdab47](https://placehold.it/15/fdab47/000000?text=+) `#fdab47` |
+| Class/Tag       | ![#fabb6e](https://placehold.it/15/fabb6e/000000?text=+) `#fabb6e` |
 | Operator        | ![#ffe2a9](https://placehold.it/15/ffe2a9/000000?text=+) `#ffe2a9` |
 
 ## Credits
-Icon theme used  -  [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
+Font used  -  [Victor Mono](https://github.com/rubjo/victor-mono).
