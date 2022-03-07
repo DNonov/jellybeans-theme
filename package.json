@@ -2,7 +2,7 @@
   "name": "jellybeans-theme",
   "displayName": "Jellybeans Theme",
   "description": "This is vs code theme based on jellybeans.vim theme.",
-  "version": "1.13.0",
+  "version": "1.14.0",
   "publisher": "DimitarNonov",
   "repository": {
     "type": "git",
