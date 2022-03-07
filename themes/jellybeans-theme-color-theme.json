@@ -469,6 +469,134 @@
       "settings": {
         "foreground": "#ffe2a9"
       }
+    },
+    {
+      "name": "Markdown: Heading ",
+      "scope": [
+        "markup.heading.markdown",
+        "punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#fabb6e"
+      }
+    },
+    {
+      "name": "Markdown: Link",
+      "scope": [
+        "meta.link.inline.markdown",
+        "markup.underline.link.markdown",
+        "punctuation.definition.metadata.markdown",
+        "markup.underline.link.image.markdown",
+        "markup.underline.link.markdown",
+        "punctuation.definition.link.markdown",
+        "meta.link.email.lt-gt.markdown"
+      ],
+      "settings": {
+        "foreground": "#99ad6a"
+      }
+    },
+    {
+      "name": "Markdown: Punctuation, Image",
+      "scope": [
+        "punctuation.definition.list.begin.markdown",
+        "punctuation.definition.link.description.begin.markdown",
+        "punctuation.definition.link.description.end.markdown",
+        "string.other.link.description.markdown",
+        "string.other.link.title.markdown",
+        "punctuation.definition.link.title.begin.markdown",
+        "punctuation.definition.link.title.end.markdown",
+        "punctuation.definition.constant.begin.markdown",
+        "punctuation.definition.constant.end.markdown",
+        "punctuation.definition.constant.markdown"
+      ],
+      "settings": {
+        "foreground": "#8197BF"
+      }
+    },  
+    {
+      "name": "Markdown Quote",
+      "scope": [
+        "punctuation.definition.quote.begin.markdown"
+      ],
+      "settings": {
+        "foreground": "#cf6a4c"
+      }
+    },
+    {
+      "name": "Markdown: Code Block and others",
+      "scope": [
+        "punctuation.definition.markdown",
+        "punctuation.definition.raw.markdown",
+        "markup.fenced_code.block.markdown",
+        "markup.raw.block.markdown",
+        "markup.inline.raw.string.markdown",
+      ],
+      "settings": {
+        "foreground": "#888888"
+      }
+    },
+    {
+      "name": "Markdown: Strong",
+      "scope": [
+        "markup.bold.markdown",
+        "punctuation.definition.bold.markdown",
+      ],
+      "settings": {
+        "fontStyle": "bold",
+      }
+    },
+    {
+      "name": "Markdown: Empasize",
+      "scope": [
+        "markup.italic.markdown",
+        "punctuation.definition.italic.markdown",
+      ],
+      "settings": {
+        "fontStyle": "italic",
+      }
+    },
+    {
+      "name": "Latex arguments begin and end",
+      "scope": [
+        "punctuation.definition.arguments.begin.math.tex",
+        "punctuation.definition.arguments.end.math.tex",
+        "punctuation.math.end.bracket.curly",
+        "punctuation.math.begin.bracket.curly",
+      ],
+      "settings": {
+        "foreground": "#8197BF"
+      }
+    }, 
+    {
+      "name": "Latex Punctuation",
+      "scope": [
+        "punctuation.definition.function.tex",
+        "punctuation.definition.function.math.tex",
+        "punctuation.definition.function.latex",
+        "keyword.control.preamble.latex"
+      ],
+      "settings": {
+        "foreground": "#fad07a"
+      }
+    },
+    {
+      "name": "Latex & Markdown Math",
+      "scope": [
+        "punctuation.definition.math.begin.markdown",
+        "punctuation.definition.math.end.markdown",
+      ],
+      "settings": {
+        "foreground": "#99ad6a"
+      }
+    },
+    {
+      "name": "Latex Constant",
+      "scope": [
+        "punctuation.definition.constant.math.tex",
+      ],
+      "settings": {
+        "foreground": "#cf6a4c"
+      }
     }
   ]
 }
